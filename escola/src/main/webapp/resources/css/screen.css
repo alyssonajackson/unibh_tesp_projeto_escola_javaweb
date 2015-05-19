@@ -38,3 +38,7 @@ span.invalid {
     padding-left: 3px;
     color: red;
 }
+
+.content>.rf-tb {
+	margin: 20px 0;
+}
