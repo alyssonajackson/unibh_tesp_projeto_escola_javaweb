@@ -1,4 +1,4 @@
-package br.ajackson.escola_alysson.negocio;
+package br.unibh.escola.negocio;
 
 import java.util.List;
 import java.util.logging.Logger;
@@ -7,7 +7,7 @@ import javax.ejb.LocalBean;
 import javax.ejb.Stateless;
 import javax.inject.Inject;
 import javax.persistence.EntityManager;
-import br.ajackson.escola_alysson.entidades.Professor;
+import br.unibh.escola.entidades.Professor;
 
 @Stateless
 @LocalBean

@@ -1,4 +1,4 @@
-package br.ajackson.escola_alysson.entidades;
+package br.unibh.escola.entidades;
 
 import java.util.Date;
 

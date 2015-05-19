@@ -1,4 +1,4 @@
-package br.ajackson.escola_alysson.entidades;
+package br.unibh.escola.entidades;
 
 import javax.persistence.*;
 import javax.validation.constraints.Pattern;

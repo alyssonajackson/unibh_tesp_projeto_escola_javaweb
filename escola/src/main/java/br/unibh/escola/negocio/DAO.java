@@ -1,4 +1,4 @@
-package br.ajackson.escola_alysson.negocio;
+package br.unibh.escola.negocio;
 
 import java.util.List;
 

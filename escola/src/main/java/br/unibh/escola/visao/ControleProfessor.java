@@ -1,4 +1,4 @@
-package br.ajackson.escola_alysson.visao;
+package br.unibh.escola.visao;
 
 import java.util.List;
 import java.util.logging.Logger;
@@ -8,8 +8,8 @@ import javax.faces.bean.ManagedBean;
 import javax.faces.bean.ViewScoped;
 import javax.faces.context.FacesContext;
 import javax.inject.Inject;
-import br.ajackson.escola_alysson.entidades.Professor;
-import br.ajackson.escola_alysson.negocio.ServicoProfessor;
+import br.unibh.escola.entidades.Professor;
+import br.unibh.escola.negocio.ServicoProfessor;
 
 @ManagedBean(name = "professormb")
 @ViewScoped

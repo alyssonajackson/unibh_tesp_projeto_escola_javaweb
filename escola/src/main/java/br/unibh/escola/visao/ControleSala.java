@@ -1,4 +1,4 @@
-package br.ajackson.escola_alysson.visao;
+package br.unibh.escola.visao;
 
 import java.util.List;
 import java.util.logging.Logger;
@@ -10,8 +10,8 @@ import javax.faces.bean.ViewScoped;
 import javax.faces.context.FacesContext;
 import javax.inject.Inject;
 
-import br.ajackson.escola_alysson.entidades.Sala;
-import br.ajackson.escola_alysson.negocio.ServicoSala;
+import br.unibh.escola.entidades.Sala;
+import br.unibh.escola.negocio.ServicoSala;
 
 @ManagedBean(name = "salamb")
 @ViewScoped
