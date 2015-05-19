@@ -1,0 +1,12 @@
+2015-05-19 19:46:18,823 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/alysson/java/workspace_tesp_02/escola/pom.xml
+2015-05-19 19:46:22,327 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.unibh:escola:0.0.1-SNAPSHOT @ /Users/alysson/java/workspace_tesp_02/escola/pom.xml.
+2015-05-19 19:46:23,568 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /escola/src/main/java
+2015-05-19 19:46:23,568 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /escola/src/main/resources
+2015-05-19 19:46:23,572 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /escola/src/test/java
+2015-05-19 19:46:23,573 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /escola/src/test/resources
+2015-05-19 19:46:26,676 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2015-05-19 19:46:28,107 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.unibh:escola:0.0.1-SNAPSHOT @ /Users/alysson/java/workspace_tesp_02/escola/pom.xml.
+2015-05-19 19:46:30,602 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-19 19:46:30,613 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-05-19 19:46:30,627 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-19 19:46:30,627 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
