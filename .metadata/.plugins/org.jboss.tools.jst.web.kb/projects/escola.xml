@@ -202,27 +202,84 @@
   <el>
    <linked-el length="37" name="%15" offset="2969" path="%16"/>
    <linked-el length="51" name="%15" offset="2766" path="%16"/>
-   <linked-el length="27" name="%17" offset="1452" path="%16"/>
-   <linked-el length="46" name="%17" offset="2478" path="%16"/>
-   <linked-el length="51" name="%17" offset="2766" path="%16"/>
-   <linked-el length="52" name="%17" offset="2608" path="%16"/>
-   <linked-el length="21" name="%17" offset="1119" path="%16"/>
-   <linked-el length="45" name="%17" offset="2351" path="%16"/>
-   <linked-el length="27" name="%17" offset="2818" path="%16"/>
-   <linked-el length="43" name="%17" offset="2227" path="%16"/>
-   <linked-el length="20" name="%17" offset="805" path="%16"/>
-   <linked-el length="21" name="%18" offset="6184" path="%19"/>
-   <linked-el length="21" name="%20" offset="6184" path="%19"/>
-   <linked-el length="17" name="%21" offset="1257" path="%19"/>
-   <linked-el length="77" name="%22" offset="1799" path="%16"/>
-   <linked-el length="17" name="%23" offset="1257" path="%19"/>
-   <linked-el length="27" name="%1" offset="1452" path="%16"/>
-   <linked-el length="21" name="%1" offset="1119" path="%16"/>
-   <linked-el length="20" name="%1" offset="805" path="%16"/>
-   <linked-el length="22" name="%5" offset="2136" path="%16"/>
-   <linked-el length="22" name="%5" offset="2105" path="%16"/>
-   <linked-el length="18" name="%5" offset="1983" path="%16"/>
-   <linked-el length="77" name="%24" offset="1799" path="%16"/>
+   <linked-el length="35" name="%17" offset="1245" path="%18"/>
+   <linked-el length="36" name="%17" offset="1031" path="%18"/>
+   <linked-el length="41" name="%17" offset="2368" path="%19"/>
+   <linked-el length="34" name="%20" offset="1962" path="%21"/>
+   <linked-el length="23" name="%20" offset="3082" path="%21"/>
+   <linked-el length="28" name="%20" offset="3626" path="%21"/>
+   <linked-el length="42" name="%20" offset="1065" path="%21"/>
+   <linked-el length="18" name="%20" offset="3400" path="%21"/>
+   <linked-el length="36" name="%20" offset="429" path="%21"/>
+   <linked-el length="44" name="%20" offset="2349" path="%21"/>
+   <linked-el length="31" name="%20" offset="3276" path="%21"/>
+   <linked-el length="18" name="%20" offset="3660" path="%21"/>
+   <linked-el length="34" name="%20" offset="2306" path="%21"/>
+   <linked-el length="25" name="%20" offset="1889" path="%21"/>
+   <linked-el length="34" name="%20" offset="2118" path="%21"/>
+   <linked-el length="28" name="%20" offset="3366" path="%21"/>
+   <linked-el length="39" name="%20" offset="709" path="%21"/>
+   <linked-el length="30" name="%20" offset="2404" path="%21"/>
+   <linked-el length="18" name="%20" offset="2564" path="%21"/>
+   <linked-el length="29" name="%20" offset="1689" path="%21"/>
+   <linked-el length="32" name="%20" offset="3518" path="%21"/>
+   <linked-el length="19" name="%20" offset="2907" path="%21"/>
+   <linked-el length="32" name="%20" offset="1327" path="%21"/>
+   <linked-el length="20" name="%20" offset="2735" path="%21"/>
+   <linked-el length="38" name="%20" offset="884" path="%21"/>
+   <linked-el length="30" name="%20" offset="1236" path="%21"/>
+   <linked-el length="21" name="%22" offset="6184" path="%23"/>
+   <linked-el length="24" name="%24" offset="702" path="%19"/>
+   <linked-el length="25" name="%24" offset="3742" path="%19"/>
+   <linked-el length="26" name="%24" offset="4925" path="%19"/>
+   <linked-el length="28" name="%24" offset="888" path="%19"/>
+   <linked-el length="34" name="%24" offset="1559" path="%19"/>
+   <linked-el length="13" name="%24" offset="3897" path="%19"/>
+   <linked-el length="45" name="%24" offset="4692" path="%19"/>
+   <linked-el length="43" name="%24" offset="4980" path="%19"/>
+   <linked-el length="28" name="%24" offset="1775" path="%19"/>
+   <linked-el length="21" name="%24" offset="4239" path="%19"/>
+   <linked-el length="13" name="%24" offset="5330" path="%19"/>
+   <linked-el length="45" name="%24" offset="4429" path="%19"/>
+   <linked-el length="13" name="%24" offset="5575" path="%19"/>
+   <linked-el length="36" name="%24" offset="1130" path="%19"/>
+   <linked-el length="32" name="%24" offset="1344" path="%19"/>
+   <linked-el length="17" name="%24" offset="4064" path="%19"/>
+   <linked-el length="24" name="%24" offset="4639" path="%19"/>
+   <linked-el length="23" name="%24" offset="1953" path="%19"/>
+   <linked-el length="27" name="%10" offset="2684" path="%19"/>
+   <linked-el length="24" name="%10" offset="702" path="%19"/>
+   <linked-el length="28" name="%10" offset="888" path="%19"/>
+   <linked-el length="34" name="%10" offset="1559" path="%19"/>
+   <linked-el length="23" name="%10" offset="5301" path="%19"/>
+   <linked-el length="26" name="%10" offset="432" path="%19"/>
+   <linked-el length="24" name="%10" offset="3664" path="%19"/>
+   <linked-el length="28" name="%10" offset="1775" path="%19"/>
+   <linked-el length="29" name="%10" offset="3343" path="%19"/>
+   <linked-el length="34" name="%10" offset="3697" path="%19"/>
+   <linked-el length="24" name="%10" offset="3501" path="%19"/>
+   <linked-el length="23" name="%10" offset="3272" path="%19"/>
+   <linked-el length="24" name="%10" offset="3079" path="%19"/>
+   <linked-el length="36" name="%10" offset="1130" path="%19"/>
+   <linked-el length="22" name="%10" offset="2826" path="%19"/>
+   <linked-el length="23" name="%10" offset="5546" path="%19"/>
+   <linked-el length="27" name="%10" offset="5443" path="%19"/>
+   <linked-el length="25" name="%10" offset="2598" path="%19"/>
+   <linked-el length="32" name="%10" offset="1344" path="%19"/>
+   <linked-el length="26" name="%10" offset="5216" path="%19"/>
+   <linked-el length="23" name="%10" offset="1953" path="%19"/>
+   <linked-el length="18" name="%25" offset="3400" path="%21"/>
+   <linked-el length="24" name="%25" offset="701" path="%18"/>
+   <linked-el length="23" name="%25" offset="861" path="%18"/>
+   <linked-el length="18" name="%25" offset="3660" path="%21"/>
+   <linked-el length="19" name="%25" offset="2907" path="%21"/>
+   <linked-el length="20" name="%25" offset="2735" path="%21"/>
+   <linked-el length="39" name="%25" offset="709" path="%21"/>
+   <linked-el length="38" name="%25" offset="884" path="%21"/>
+   <linked-el length="30" name="%25" offset="2404" path="%21"/>
+   <linked-el length="18" name="%25" offset="2564" path="%21"/>
+   <linked-el length="17" name="%26" offset="1257" path="%23"/>
+   <linked-el length="16" name="%27" offset="2940" path="%18"/>
    <linked-el length="33" name="%2" offset="1675" path="%16"/>
    <linked-el length="22" name="%13" offset="2136" path="%16"/>
    <linked-el length="22" name="%13" offset="2105" path="%16"/>
@@ -233,62 +290,230 @@
    <linked-el length="45" name="%13" offset="2351" path="%16"/>
    <linked-el length="27" name="%13" offset="2818" path="%16"/>
    <linked-el length="43" name="%13" offset="2227" path="%16"/>
-   <linked-el length="37" name="%25" offset="2969" path="%16"/>
-   <linked-el length="51" name="%25" offset="2766" path="%16"/>
+   <linked-el length="34" name="%7" offset="1962" path="%21"/>
+   <linked-el length="28" name="%7" offset="3626" path="%21"/>
+   <linked-el length="42" name="%7" offset="1065" path="%21"/>
+   <linked-el length="36" name="%7" offset="429" path="%21"/>
+   <linked-el length="44" name="%7" offset="2349" path="%21"/>
+   <linked-el length="31" name="%7" offset="3276" path="%21"/>
+   <linked-el length="34" name="%7" offset="2306" path="%21"/>
+   <linked-el length="25" name="%7" offset="1889" path="%21"/>
+   <linked-el length="34" name="%7" offset="2118" path="%21"/>
+   <linked-el length="28" name="%7" offset="3366" path="%21"/>
+   <linked-el length="39" name="%7" offset="709" path="%21"/>
+   <linked-el length="29" name="%7" offset="1689" path="%21"/>
+   <linked-el length="32" name="%7" offset="3518" path="%21"/>
+   <linked-el length="32" name="%7" offset="1327" path="%21"/>
+   <linked-el length="38" name="%7" offset="884" path="%21"/>
+   <linked-el length="30" name="%7" offset="1236" path="%21"/>
+   <linked-el length="15" name="%28" offset="3108" path="%18"/>
+   <linked-el length="23" name="%29" offset="3082" path="%21"/>
+   <linked-el length="42" name="%29" offset="1065" path="%21"/>
+   <linked-el length="25" name="%30" offset="3742" path="%19"/>
+   <linked-el length="34" name="%30" offset="1559" path="%19"/>
+   <linked-el length="45" name="%30" offset="4692" path="%19"/>
+   <linked-el length="24" name="%30" offset="3664" path="%19"/>
+   <linked-el length="29" name="%30" offset="3343" path="%19"/>
+   <linked-el length="21" name="%30" offset="4239" path="%19"/>
+   <linked-el length="13" name="%30" offset="5330" path="%19"/>
+   <linked-el length="24" name="%30" offset="3501" path="%19"/>
+   <linked-el length="36" name="%30" offset="1130" path="%19"/>
+   <linked-el length="23" name="%30" offset="5546" path="%19"/>
+   <linked-el length="25" name="%30" offset="2598" path="%19"/>
+   <linked-el length="17" name="%30" offset="4064" path="%19"/>
+   <linked-el length="26" name="%30" offset="5216" path="%19"/>
+   <linked-el length="24" name="%30" offset="4639" path="%19"/>
+   <linked-el length="23" name="%30" offset="1953" path="%19"/>
+   <linked-el length="27" name="%30" offset="2684" path="%19"/>
+   <linked-el length="24" name="%30" offset="702" path="%19"/>
+   <linked-el length="26" name="%30" offset="4925" path="%19"/>
+   <linked-el length="28" name="%30" offset="888" path="%19"/>
+   <linked-el length="13" name="%30" offset="3897" path="%19"/>
+   <linked-el length="43" name="%30" offset="4980" path="%19"/>
+   <linked-el length="23" name="%30" offset="5301" path="%19"/>
+   <linked-el length="26" name="%30" offset="432" path="%19"/>
+   <linked-el length="28" name="%30" offset="1775" path="%19"/>
+   <linked-el length="34" name="%30" offset="3697" path="%19"/>
+   <linked-el length="45" name="%30" offset="4429" path="%19"/>
+   <linked-el length="23" name="%30" offset="3272" path="%19"/>
+   <linked-el length="24" name="%30" offset="3079" path="%19"/>
+   <linked-el length="13" name="%30" offset="5575" path="%19"/>
+   <linked-el length="22" name="%30" offset="2826" path="%19"/>
+   <linked-el length="27" name="%30" offset="5443" path="%19"/>
+   <linked-el length="32" name="%30" offset="1344" path="%19"/>
+   <linked-el length="41" name="%31" offset="2368" path="%19"/>
+   <linked-el length="41" name="%32" offset="2368" path="%19"/>
+   <linked-el length="26" name="%33" offset="3467" path="%18"/>
+   <linked-el length="14" name="%33" offset="3851" path="%18"/>
+   <linked-el length="16" name="%33" offset="2940" path="%18"/>
+   <linked-el length="26" name="%33" offset="2617" path="%18"/>
+   <linked-el length="14" name="%33" offset="4099" path="%18"/>
+   <linked-el length="15" name="%33" offset="3108" path="%18"/>
+   <linked-el length="14" name="%33" offset="2773" path="%18"/>
+   <linked-el length="21" name="%33" offset="3281" path="%18"/>
+   <linked-el length="14" name="%34" offset="3851" path="%18"/>
+   <linked-el length="26" name="%34" offset="2617" path="%18"/>
+   <linked-el length="14" name="%34" offset="4099" path="%18"/>
+   <linked-el length="14" name="%34" offset="2773" path="%18"/>
+   <linked-el length="26" name="%35" offset="3467" path="%18"/>
+   <linked-el length="27" name="%36" offset="1452" path="%16"/>
+   <linked-el length="46" name="%36" offset="2478" path="%16"/>
+   <linked-el length="51" name="%36" offset="2766" path="%16"/>
+   <linked-el length="52" name="%36" offset="2608" path="%16"/>
+   <linked-el length="21" name="%36" offset="1119" path="%16"/>
+   <linked-el length="45" name="%36" offset="2351" path="%16"/>
+   <linked-el length="27" name="%36" offset="2818" path="%16"/>
+   <linked-el length="43" name="%36" offset="2227" path="%16"/>
+   <linked-el length="20" name="%36" offset="805" path="%16"/>
+   <linked-el length="21" name="%37" offset="6184" path="%23"/>
+   <linked-el length="17" name="%38" offset="1257" path="%23"/>
+   <linked-el length="24" name="%39" offset="1692" path="%18"/>
+   <linked-el length="25" name="%39" offset="1948" path="%18"/>
+   <linked-el length="21" name="%39" offset="2140" path="%18"/>
+   <linked-el length="23" name="%39" offset="861" path="%18"/>
+   <linked-el length="35" name="%39" offset="1245" path="%18"/>
+   <linked-el length="27" name="%39" offset="3735" path="%18"/>
+   <linked-el length="14" name="%39" offset="2773" path="%18"/>
+   <linked-el length="21" name="%39" offset="3281" path="%18"/>
+   <linked-el length="24" name="%39" offset="3821" path="%18"/>
+   <linked-el length="26" name="%39" offset="2535" path="%18"/>
+   <linked-el length="15" name="%39" offset="3108" path="%18"/>
+   <linked-el length="24" name="%39" offset="4069" path="%18"/>
+   <linked-el length="30" name="%39" offset="2209" path="%18"/>
+   <linked-el length="16" name="%39" offset="2940" path="%18"/>
+   <linked-el length="24" name="%39" offset="701" path="%18"/>
+   <linked-el length="28" name="%39" offset="3965" path="%18"/>
+   <linked-el length="26" name="%39" offset="2617" path="%18"/>
+   <linked-el length="26" name="%39" offset="1462" path="%18"/>
+   <linked-el length="28" name="%39" offset="432" path="%18"/>
+   <linked-el length="26" name="%39" offset="3467" path="%18"/>
+   <linked-el length="14" name="%39" offset="3851" path="%18"/>
+   <linked-el length="28" name="%39" offset="1549" path="%18"/>
+   <linked-el length="36" name="%39" offset="1031" path="%18"/>
+   <linked-el length="36" name="%39" offset="2570" path="%18"/>
+   <linked-el length="14" name="%39" offset="4099" path="%18"/>
+   <linked-el length="41" name="%39" offset="2368" path="%19"/>
+   <linked-el length="26" name="%39" offset="2368" path="%18"/>
+   <linked-el length="24" name="%11" offset="1692" path="%18"/>
+   <linked-el length="25" name="%11" offset="1948" path="%18"/>
+   <linked-el length="21" name="%11" offset="2140" path="%18"/>
+   <linked-el length="23" name="%11" offset="861" path="%18"/>
+   <linked-el length="35" name="%11" offset="1245" path="%18"/>
+   <linked-el length="27" name="%11" offset="3735" path="%18"/>
+   <linked-el length="14" name="%11" offset="2773" path="%18"/>
+   <linked-el length="21" name="%11" offset="3281" path="%18"/>
+   <linked-el length="24" name="%11" offset="3821" path="%18"/>
+   <linked-el length="26" name="%11" offset="2535" path="%18"/>
+   <linked-el length="15" name="%11" offset="3108" path="%18"/>
+   <linked-el length="24" name="%11" offset="4069" path="%18"/>
+   <linked-el length="30" name="%11" offset="2209" path="%18"/>
+   <linked-el length="16" name="%11" offset="2940" path="%18"/>
+   <linked-el length="24" name="%11" offset="701" path="%18"/>
+   <linked-el length="28" name="%11" offset="3965" path="%18"/>
+   <linked-el length="26" name="%11" offset="2617" path="%18"/>
+   <linked-el length="26" name="%11" offset="1462" path="%18"/>
+   <linked-el length="28" name="%11" offset="432" path="%18"/>
+   <linked-el length="26" name="%11" offset="3467" path="%18"/>
+   <linked-el length="14" name="%11" offset="3851" path="%18"/>
+   <linked-el length="28" name="%11" offset="1549" path="%18"/>
+   <linked-el length="36" name="%11" offset="1031" path="%18"/>
+   <linked-el length="36" name="%11" offset="2570" path="%18"/>
+   <linked-el length="14" name="%11" offset="4099" path="%18"/>
+   <linked-el length="41" name="%11" offset="2368" path="%19"/>
+   <linked-el length="26" name="%11" offset="2368" path="%18"/>
+   <linked-el length="77" name="%40" offset="1799" path="%16"/>
+   <linked-el length="27" name="%1" offset="1452" path="%16"/>
+   <linked-el length="21" name="%1" offset="1119" path="%16"/>
+   <linked-el length="20" name="%1" offset="805" path="%16"/>
+   <linked-el length="22" name="%5" offset="2136" path="%16"/>
+   <linked-el length="22" name="%5" offset="2105" path="%16"/>
+   <linked-el length="18" name="%5" offset="1983" path="%16"/>
+   <linked-el length="77" name="%41" offset="1799" path="%16"/>
+   <linked-el length="21" name="%42" offset="3281" path="%18"/>
+   <linked-el length="37" name="%43" offset="2969" path="%16"/>
+   <linked-el length="51" name="%43" offset="2766" path="%16"/>
    <linked-el length="27" name="%0" offset="1452" path="%16"/>
    <linked-el length="33" name="%0" offset="1675" path="%16"/>
    <linked-el length="21" name="%0" offset="1119" path="%16"/>
    <linked-el length="20" name="%0" offset="805" path="%16"/>
-   <linked-el length="77" name="%26" offset="1799" path="%16"/>
+   <linked-el length="77" name="%44" offset="1799" path="%16"/>
   </el>
  </validation>
  <aliases>
+  <alias path="/escola/src/main/webapp/professor.xhtml" value="%21"/>
   <alias path="request" value="%15"/>
   <alias
+   path="/escola/src/main/java/br/unibh/escola/entidades/Aluno.java" value="%17"/>
+  <alias
    path="/escola/src/main/java/br/unibh/escola/negocio/ServicoProfessor.java" value="%6"/>
+  <alias path="professormb" value="%20"/>
   <alias
    path="/escola/src/test/java/br/unibh/escola/test/MemberRegistrationTest.java" value="%3"/>
-  <alias path="project" value="%20"/>
+  <alias path="project" value="%22"/>
+  <alias
+   path="/escola/src/main/java/br/unibh/escola/entidades/Sala.java" value="%24"/>
   <alias
    path="/escola/src/main/java/br/unibh/escola/visao/ControleSala.java" value="%10"/>
+  <alias path="/escola/src/main/webapp/sala.xhtml" value="%19"/>
+  <alias
+   path="/escola/src/main/java/br/unibh/escola/entidades/Pessoa.java" value="%25"/>
   <alias
    path="/escola/src/main/java/br/unibh/escola/util/Resources.java" value="%4"/>
   <alias path="/escola/src/main/java/br/unibh/escola/negocio/DAO.java" value="%14"/>
-  <alias path="env.JBOSS_HOME" value="%23"/>
+  <alias path="env.JBOSS_HOME" value="%26"/>
+  <alias path="aluno.nome" value="%27"/>
   <alias path="memberRegistration" value="%2"/>
   <alias path="members" value="%13"/>
   <alias
    path="/escola/src/main/java/br/unibh/escola/visao/ControleProfessor.java" value="%7"/>
-  <alias path="/escola/pom.xml" value="%19"/>
+  <alias path="/escola/pom.xml" value="%23"/>
+  <alias path="aluno.cpf" value="%28"/>
   <alias
    path="/escola/src/main/java/br/unibh/escola/negocio/ServicoAluno.java" value="%9"/>
+  <alias path="/escola/src/main/webapp/aluno.xhtml" value="%18"/>
+  <alias
+   path="/escola/src/main/java/br/unibh/escola/entidades/Professor.java" value="%29"/>
+  <alias path="salamb" value="%30"/>
+  <alias path="alunomb.aluno" value="%31"/>
   <alias path="/escola/src/main/webapp/index.xhtml" value="%16"/>
+  <alias path="alunomb.aluno.dataTerminoManutencao" value="%32"/>
+  <alias path="aluno" value="%33"/>
+  <alias path="aluno.id" value="%34"/>
+  <alias path="aluno.dataAniversario" value="%35"/>
   <alias
    path="/escola/src/main/java/br/unibh/escola/rest/MemberResourceRESTService.java" value="%8"/>
-  <alias path="/escola/src/main/java/br/unibh/escola/model/Member.java" value="%17"/>
-  <alias path="project.artifactId" value="%18"/>
-  <alias path="env" value="%21"/>
+  <alias path="/escola/src/main/java/br/unibh/escola/model/Member.java" value="%36"/>
+  <alias path="project.artifactId" value="%37"/>
+  <alias path="env" value="%38"/>
+  <alias path="alunomb" value="%39"/>
   <alias
    path="/escola/src/main/java/br/unibh/escola/visao/ControleAluno.java" value="%11"/>
   <alias
    path="/escola/src/main/java/br/unibh/escola/negocio/ServicoSala.java" value="%12"/>
-  <alias path="facesContext.messageList" value="%22"/>
+  <alias path="facesContext.messageList" value="%40"/>
   <alias path="newMember" value="%1"/>
   <alias
    path="/escola/src/main/java/br/unibh/escola/data/MemberListProducer.java" value="%5"/>
-  <alias path="facesContext" value="%24"/>
-  <alias path="request.contextPath" value="%25"/>
+  <alias path="facesContext" value="%41"/>
+  <alias path="aluno.matricula" value="%42"/>
+  <alias path="request.contextPath" value="%43"/>
   <alias
    path="/escola/src/main/java/br/unibh/escola/controller/MemberRegistration.java" value="%0"/>
-  <alias path="facesContext.postback" value="%26"/>
+  <alias path="facesContext.postback" value="%44"/>
  </aliases>
  <includes/>
  <uris>
   <uri value="http://java.sun.com/jsf/facelets">
    <prefix>ui</prefix>
   </uri>
+  <uri value="http://richfaces.org/rich">
+   <prefix>rich</prefix>
+  </uri>
   <uri value="http://java.sun.com/jsf/core">
    <prefix>f</prefix>
+  </uri>
+  <uri value="http://richfaces.org/a4j">
+   <prefix>a4j</prefix>
   </uri>
   <uri value="http://java.sun.com/jsf/html">
    <prefix>h</prefix>
