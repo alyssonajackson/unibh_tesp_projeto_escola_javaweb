@@ -10,3 +10,53 @@
 2015-05-19 19:46:30,613 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
 2015-05-19 19:46:30,627 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-05-19 19:46:30,627 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-19 19:51:52,699 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-19 19:51:52,714 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-05-19 19:51:52,716 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-19 19:51:52,716 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-19 19:51:55,025 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-19 19:51:55,025 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-19 19:51:55,027 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-19 19:51:55,027 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-19 19:52:47,102 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-05-19 19:52:47,270 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.unibh:escola:0.0.1-SNAPSHOT @ /Users/alysson/java/workspace_tesp_02/escola/pom.xml.
+2015-05-19 19:52:47,791 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /escola/src/main/java
+2015-05-19 19:52:47,791 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /escola/src/main/resources
+2015-05-19 19:52:47,792 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /escola/src/test/java
+2015-05-19 19:52:47,792 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /escola/src/test/resources
+2015-05-19 19:52:48,352 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.unibh:escola:0.0.1-SNAPSHOT @ /Users/alysson/java/workspace_tesp_02/escola/pom.xml.
+2015-05-19 19:52:48,790 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for escola
+2015-05-19 19:52:48,816 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2015-05-19 19:52:50,568 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-19 19:52:50,587 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-05-19 19:52:50,598 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-19 19:52:50,598 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-19 19:54:07,242 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.unibh:escola:0.0.1-SNAPSHOT @ /Users/alysson/java/workspace_tesp_02/escola/pom.xml.
+2015-05-19 19:54:08,123 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-19 19:54:08,123 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-19 19:54:08,126 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-19 19:54:08,126 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-19 19:54:08,127 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of escola
+2015-05-19 19:54:08,129 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for escola
+2015-05-19 19:54:08,136 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.0.2.Final is missing, no dependency information available
+2015-05-19 19:54:08,147 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.jboss.as.plugins:jboss-as-maven-plugin:7.0.2.Final: Plugin org.jboss.as.plugins:jboss-as-maven-plugin:7.0.2.Final or one of its dependencies could not be resolved: Cannot access central (http://repo.maven.apache.org/maven2) in offline mode and the artifact org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.0.2.Final has not been downloaded from it before.
+2015-05-19 19:54:08,166 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.0.2.Final is missing, no dependency information available
+2015-05-19 19:54:08,167 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.jboss.as.plugins:jboss-as-maven-plugin:7.0.2.Final: Plugin org.jboss.as.plugins:jboss-as-maven-plugin:7.0.2.Final or one of its dependencies could not be resolved: Cannot access central (http://repo.maven.apache.org/maven2) in offline mode and the artifact org.jboss.as.plugins:jboss-as-maven-plugin:jar:7.0.2.Final has not been downloaded from it before.
+2015-05-19 19:54:08,200 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-19 19:54:16,994 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-19 19:54:16,995 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-05-19 19:54:16,998 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-19 19:54:16,998 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-19 19:54:39,781 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-05-19 19:54:39,886 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.unibh:escola:0.0.1-SNAPSHOT @ /Users/alysson/java/workspace_tesp_02/escola/pom.xml.
+2015-05-19 19:54:40,453 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /escola/src/main/java
+2015-05-19 19:54:40,453 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /escola/src/main/resources
+2015-05-19 19:54:40,454 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /escola/src/test/java
+2015-05-19 19:54:40,454 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /escola/src/test/resources
+2015-05-19 19:54:41,073 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.unibh:escola:0.0.1-SNAPSHOT @ /Users/alysson/java/workspace_tesp_02/escola/pom.xml.
+2015-05-19 19:54:41,393 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for escola
+2015-05-19 19:54:41,397 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2015-05-19 19:54:42,726 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-19 19:54:42,727 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-05-19 19:54:42,739 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-19 19:54:42,739 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
