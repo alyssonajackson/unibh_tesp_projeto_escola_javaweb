@@ -2,9 +2,7 @@ package br.unibh.escola.entidades;
 
 import java.math.BigDecimal;
 
-
 import javax.persistence.*;
-
 import javax.validation.constraints.DecimalMax;
 import javax.validation.constraints.DecimalMin;
 import javax.validation.constraints.NotNull;
@@ -12,6 +10,7 @@ import javax.validation.constraints.NotNull;
 @Entity
 @PrimaryKeyJoinColumn
 @Table(name="TB_PROFESSOR")
+@NamedQuery(name="Professor.findByName", query = "select p from Professor p where p.nome like :nome")
 public class Professor extends Pessoa {
 
 	@NotNull
