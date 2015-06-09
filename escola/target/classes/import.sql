@@ -1,9 +1,9 @@
 -- You can use this file to load seed data into the database using SQL statements
 insert into Member (id, name, email, phone_number) values (0, 'John Smith', 'john.smith@mailinator.com', '2125551212')
 
-INSERT INTO TB_PESSOA (nome,cpf) VALUES ("Betty","015.568.541-32");
-INSERT INTO TB_PESSOA (nome,cpf) VALUES ("Clair","015.568.541-32");
-INSERT INTO TB_PESSOA (nome,cpf) VALUES ("Daphne","015.568.641-32");
+INSERT INTO TB_PESSOA (nome,cpf) VALUES ("Betty","015.561.541-32");
+INSERT INTO TB_PESSOA (nome,cpf) VALUES ("Clair","015.562.541-32");
+INSERT INTO TB_PESSOA (nome,cpf) VALUES ("Daphne","015.538.641-32");
 INSERT INTO TB_PESSOA (nome,cpf) VALUES ("Glover","015.555.991-32");
  
 INSERT INTO TB_PROFESSOR (id,salario) VALUES (1,5000.00);

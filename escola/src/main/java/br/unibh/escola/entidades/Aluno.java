@@ -14,6 +14,39 @@ import org.hibernate.validator.constraints.NotBlank;
 public class Aluno extends Pessoa {
 	
 	
+	@Override
+	public int hashCode() {
+		final int prime = 31;
+		int result = 1;
+		result = prime * result
+				+ ((Matricula == null) ? 0 : Matricula.hashCode());
+		result = prime * result
+				+ ((dataAniversario == null) ? 0 : dataAniversario.hashCode());
+		return result;
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Aluno other = (Aluno) obj;
+		if (Matricula == null) {
+			if (other.Matricula != null)
+				return false;
+		} else if (!Matricula.equals(other.Matricula))
+			return false;
+		if (dataAniversario == null) {
+			if (other.dataAniversario != null)
+				return false;
+		} else if (!dataAniversario.equals(other.dataAniversario))
+			return false;
+		return true;
+	}
+
 	@NotNull
 	@Column(name="MATRICULA",unique=true, nullable=false)
 	private Long Matricula;
