@@ -8,7 +8,7 @@
 	template="/WEB-INF/templates/default.xhtml">
 	<ui:define name="content">
 		<h:panelGroup id="cadastro">
-		
+
 			<h:form id="cad" rendered="#{not empty salamb.sala}">
 				<rich:panel>
 					<h:outputText value="Cadastro de Salas"
@@ -19,24 +19,30 @@
 						<h:inputText id="codigo" value="#{salamb.sala.codigo}" size="5" />
 						<h:message for="codigo" errorClass="invalid" />
 						<h:outputLabel value="Capacidade" />
-						<rich:inputNumberSpinner id="capacidade" value="#{salamb.sala.capacidade}" size="5" minValue="0" maxValue="100" />
+						<rich:inputNumberSpinner id="capacidade"
+							value="#{salamb.sala.capacidade}" size="5" minValue="0"
+							maxValue="100" />
 						<h:message for="capacidade" errorClass="invalid" />
 						<h:outputLabel value="Possui Quadro Branco? " />
-						<h:selectBooleanCheckbox id="possuiQuadroBranco" value="#{salamb.sala.possuiQuadroBranco}" />
+						<h:selectBooleanCheckbox id="possuiQuadroBranco"
+							value="#{salamb.sala.possuiQuadroBranco}" />
 						<h:message for="possuiQuadroBranco" errorClass="invalid" />
 
 						<h:outputLabel value="Possui Data Show? " />
-						<h:selectBooleanCheckbox id="possuiDataShow" value="#{salamb.sala.possuiDataShow}" />
+						<h:selectBooleanCheckbox id="possuiDataShow"
+							value="#{salamb.sala.possuiDataShow}" />
 						<h:message for="possuiDataShow" errorClass="invalid" />
-						
+
 						<h:outputLabel value="Possui Computador? " />
-						<h:selectBooleanCheckbox id="possuiComputador" value="#{salamb.sala.possuiComputador}" />
+						<h:selectBooleanCheckbox id="possuiComputador"
+							value="#{salamb.sala.possuiComputador}" />
 						<h:message for="possuiComputador" errorClass="invalid" />
-						
+
 						<h:outputLabel value="Observação " />
-						<h:inputTextarea id="observacao" cols="60" rows="4" value="#{salamb.sala.observacao}" />
+						<h:inputTextarea id="observacao" cols="60" rows="4"
+							value="#{salamb.sala.observacao}" />
 						<h:message for="observacao" errorClass="invalid" />
-						
+
 						<h:outputLabel value="Status " />
 						<h:selectOneRadio id="status" value="#{salamb.sala.status}">
 							<f:selectItem itemLabel="Ativo" itemValue="1" />
@@ -44,11 +50,11 @@
 							<f:selectItem itemLabel="Desativo" itemValue="3" />
 						</h:selectOneRadio>
 						<h:message for="status" errorClass="invalid" />
-						
+
 						<h:outputLabel value="Data de Término da Manutenção " />
 						<rich:calendar id="dataTerminoManutencao"
-							value="#{salamb.sala.dataTerminoManutencao}" size="10" popup="true"
-							datePattern="dd/MM/yyyy" />
+							value="#{salamb.sala.dataTerminoManutencao}" size="10"
+							popup="true" datePattern="dd/MM/yyyy" />
 						<h:message for="dataTerminoManutencao" errorClass="invalid" />
 
 					</h:panelGrid>
@@ -57,14 +63,14 @@
 					<h:commandButton id="cancelar" action="#{salamb.cancelar}"
 						value="Cancelar" immediate="true" />
 				</rich:panel>
-			</h:form>			
+			</h:form>
 		</h:panelGroup>
-		
+
 		<rich:panel rendered="#{empty salamb.sala}">
 			<h:outputText value="Lista de Salas"
 				style="font-size:15px;font-weight:bold" />
 			<h:form id="arg">
-			
+
 				<rich:toolbar height="26" itemSeparator="grid">
 					<rich:toolbarGroup>
 						<h:commandButton id="novo" action="#{salamb.novo}"
@@ -76,9 +82,9 @@
 						<h:commandButton id="pesquisar" action="#{salamb.pesquisar}"
 							value="Pesquisar" render="tabela" />
 					</rich:toolbarGroup>
-					
+
 				</rich:toolbar>
-			</h:form>	
+			</h:form>
 			<h:panelGroup rendered="#{empty salamb.salaes}">
 				<h:outputText value="Nenhum sala existe" />
 			</h:panelGroup>
@@ -114,17 +120,17 @@
 						<f:facet name="header">
 							<h:outputText value="Possui Data Show?" />
 						</f:facet>
-						<h:outputText value="#{sala.possuiDataShow}">
-							<h:outputText value="#{sala.possuiQuadroBranco ? 'Sim' : 'Não'}" />
-						</h:outputText>
+
+						<h:outputText value="#{sala.possuiQuadroBranco ? 'Sim' : 'Não'}" />
+
 					</rich:column>
 					<rich:column>
 						<f:facet name="header">
 							<h:outputText value="Possui Computador?" />
 						</f:facet>
-						<h:outputText value="#{sala.possuiComputador}">
-							<h:outputText value="#{sala.possuiComputador ? 'Sim' : 'Não'}" />
-						</h:outputText>
+
+						<h:outputText value="#{sala.possuiComputador ? 'Sim' : 'Não'}" />
+
 					</rich:column>
 					<rich:column>
 						<f:facet name="header">

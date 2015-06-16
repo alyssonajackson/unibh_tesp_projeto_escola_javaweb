@@ -11,6 +11,8 @@ import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToMany;
 import javax.persistence.ManyToOne;
+import javax.persistence.NamedQueries;
+import javax.persistence.NamedQuery;
 import javax.persistence.Table;
 import javax.persistence.Version;
 import javax.validation.constraints.Max;
@@ -18,8 +20,11 @@ import javax.validation.constraints.Min;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 
+import org.hibernate.validator.constraints.NotBlank;
+
 @Entity
 @Table(name = "TB_DISCIPLINA")
+@NamedQueries({ @NamedQuery(name = "Disciplina.findByNomeECurso", query = "SELECT d FROM Disciplina d WHERE d.nome LIKE :nome AND d.curso LIKE :curso") })
 public class Disciplina {
 
 	@Override
@@ -101,64 +106,64 @@ public class Disciplina {
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	@Column(name = "ID")
 	private Long id;
-	
+
 	@NotNull
-	@Size(max=100)
-	@Column(length=100)
+	@Size(max = 100)
+	@Column(length = 100)
 	private String nome;
 
 	@NotNull
-	@Size(max=100)
-	@Column(length=100)
+	@Size(max = 100)
+	@Column(length = 100)
 	private String curso;
-	
+
 	@NotNull
 	@Max(100)
 	private int cargaHoraria;
-	
+
 	@NotNull
 	@Min(1)
 	@Max(3)
 	private int tipo;
-	
-	@NotNull
-	@Size(max=4000)
-	@Column(length=4000)
+
+	@NotBlank
+	@Size(max = 4000)
+	@Column(length = 4000)
 	private String ementa;
-	
-	@NotNull
-	@Size(max=4000)
-	@Column(length=4000)
+
+	@NotBlank
+	@Size(max = 4000)
+	@Column(length = 4000)
 	private String bibliografia;
-	
-	@NotNull
-	@Size(max=4000)
-	@Column(length=4000)
+
+	@NotBlank
+	@Size(max = 4000)
+	@Column(length = 4000)
 	private String distribuicaoAvaliacao;
 
-	@Size(max=4000)
-	@Column(length=4000)
+	@Size(max = 4000)
+	@Column(length = 4000)
 	private String observacao;
 
 	@NotNull
 	@ManyToOne
 	@JoinColumn(nullable = false)
 	private Sala sala;
-	
+
 	@NotNull
 	@ManyToOne
 	@JoinColumn(nullable = false)
 	private Professor professor;
-	
+
 	@NotNull
 	@ManyToMany(fetch = FetchType.EAGER)
 	private List<Aluno> alunos;
-	
+
 	@Version
 	private int versao;
-	
-	public Disciplina(){
-		
+
+	public Disciplina() {
+
 	}
 
 	public Long getId() {
@@ -264,5 +269,5 @@ public class Disciplina {
 	public void setVersao(int versao) {
 		this.versao = versao;
 	}
-	
+
 }
